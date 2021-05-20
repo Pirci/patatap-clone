@@ -1,4 +1,4 @@
 # patatap-clone
  Patatap Clone
 
-https://pirci.github.io/patatap-clone/
+https://pirci.github.io/patatap-clone/circles.html
