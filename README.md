@@ -1,12 +1,6 @@
 # Patatap Clone
-### Udemy the Web Developer Bootcamp project.
 
 > Press any key, A to Z, enjoy animations with sounds. Has confetti animation in the background with responsive UI. Get lost in the rhythm of the sounds with random circle animations on screen that change with colors. Working with modern web-browser like Safari, Chrome, Microsoft-Edge, Mozilla Firefox, etc. Be sure to enable sound on your computer!
-
-From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
-
-> It was one of a "code along" assignments included in the video bootcamp.
-
 
 ## Live Demo
 
